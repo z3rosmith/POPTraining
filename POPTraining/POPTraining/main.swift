@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
-
+let appleWatchCharger = Charger(chargemAhPerHour: 500)
+let iphoneCharger = Charger(chargemAhPerHour: 2000)
+let ipadCharger = Charger(chargemAhPerHour: 4000)
+let macbookCharger = Charger(chargemAhPerHour: 10000)
