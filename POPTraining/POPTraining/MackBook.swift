@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct MackBook {
+struct MackBook: Portable {
     
     /// 기기의 충전 가능한 시간당 밀리암페어
     var chargemAhPerHour: Double

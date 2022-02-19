@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3C72750827BE8046008FC6B1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C72750727BE8046008FC6B1 /* main.swift */; };
 		3C72750F27BE80A5008FC6B1 /* Chargeable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C72750E27BE80A5008FC6B1 /* Chargeable.swift */; };
+		3CA68E1E27C0B18C0089793E /* Portable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA68E1D27C0B18C0089793E /* Portable.swift */; };
 		E8CEBFB727BE82AD009CD8DE /* MackBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8CEBFB627BE82AD009CD8DE /* MackBook.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		3C72750427BE8046008FC6B1 /* POPTraining */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = POPTraining; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C72750727BE8046008FC6B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3C72750E27BE80A5008FC6B1 /* Chargeable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chargeable.swift; sourceTree = "<group>"; };
+		3CA68E1D27C0B18C0089793E /* Portable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Portable.swift; sourceTree = "<group>"; };
 		E8CEBFB627BE82AD009CD8DE /* MackBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MackBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,6 +66,7 @@
 				3C72750727BE8046008FC6B1 /* main.swift */,
 				3C72750E27BE80A5008FC6B1 /* Chargeable.swift */,
 				E8CEBFB627BE82AD009CD8DE /* MackBook.swift */,
+				3CA68E1D27C0B18C0089793E /* Portable.swift */,
 			);
 			path = POPTraining;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				E8CEBFB727BE82AD009CD8DE /* MackBook.swift in Sources */,
 				3C72750F27BE80A5008FC6B1 /* Chargeable.swift in Sources */,
+				3CA68E1E27C0B18C0089793E /* Portable.swift in Sources */,
 				3C72750827BE8046008FC6B1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,7 +258,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9HJKFUTNXJ;
+				DEVELOPMENT_TEAM = 2W776SPR4X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -265,7 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9HJKFUTNXJ;
+				DEVELOPMENT_TEAM = 2W776SPR4X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
